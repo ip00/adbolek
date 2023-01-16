@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Version: 0.5
-! Title: AdLink
+! Title: AdBolek
 ! Last modified: 2023-01-16 21:08 UTC
 ! Expires: 30 days (update frequency)
 ! Homepage: 
